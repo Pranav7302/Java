@@ -5,15 +5,6 @@ import java.sql.SQLException;
 public class PartTimeEmployee extends Employee {
     String shiftType;
 
-    @Override
-    public String toString() {
-        return "PartTimeEmployee{" +
-                "shiftType='" + shiftType + '\'' +
-                ", empName='" + empName + '\'' +
-                ", salary=" + salary +
-                '}';
-    }
-
     public PartTimeEmployee(int id,String empName, int salary, String shiftTiming) {
         super(id, empName, salary);
         this.shiftType = shiftTiming;
