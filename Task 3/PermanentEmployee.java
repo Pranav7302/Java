@@ -5,15 +5,6 @@ import java.sql.SQLException;
 public class PermanentEmployee extends Employee {
     String joiningDate;
 
-    @Override
-    public String toString() {
-        return "PermanentEmployee{" +
-                "joiningDate='" + joiningDate + '\'' +
-                ", empName='" + empName + '\'' +
-                ", salary=" + salary +
-                '}';
-    }
-
     public PermanentEmployee(int id, String empName, int salary, String joiningDate) {
         super(id, empName, salary);
         this.joiningDate = joiningDate;
