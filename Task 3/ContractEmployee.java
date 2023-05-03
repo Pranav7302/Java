@@ -5,15 +5,6 @@ import java.sql.SQLException;
 public class ContractEmployee extends Employee{
     String contractPeriod;
 
-    @Override
-    public String toString() {
-        return "ContractEmployee{" +
-                "contractPeriod='" + contractPeriod + '\'' +
-                ", empName='" + empName + '\'' +
-                ", salary=" + salary +
-                '}';
-    }
-
     public ContractEmployee(int id, String empName, int salary, String contractPeriod) {
         super(id,empName, salary);
         this.contractPeriod = contractPeriod;
