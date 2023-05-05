@@ -1,0 +1,96 @@
+2023-05-05 11:54:03 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 11:54:21 INFO  MysqlCon:301 - Enter your choice
+1.List all employees
+2.List permanent employees
+3.List Part-time employees
+4.List contract employees
+2023-05-05 11:54:23 INFO  MysqlCon:57 - {"Contract employee":[{"EmployeeSalary":2332,"Contract period":"3 months","EmployeeID":1,"EmployeeName":"praaaa"},{"EmployeeSalary":3443,"Contract period":"3 months","EmployeeID":3,"EmployeeName":"ssss"}]}
+2023-05-05 11:54:23 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 11:58:43 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 14:04:40 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 14:09:52 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 14:11:40 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 14:11:42 INFO  MysqlCon:301 - Enter your choice
+1.List all employees
+2.List permanent employees
+3.List Part-time employees
+4.List contract employees
+2023-05-05 14:11:43 INFO  MysqlCon:57 - {"Contract employee":[{"EmployeeSalary":2332,"Contract period":"3 months","EmployeeID":1,"EmployeeName":"praaaa"},{"EmployeeSalary":3443,"Contract period":"3 months","EmployeeID":3,"EmployeeName":"ssss"}]}
+2023-05-05 14:11:43 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 14:34:44 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 14:34:48 INFO  MysqlCon:261 - Select the type of emplolyee
+Enter your choice
+1.Permanent Employee
+2.Part-Time Employee 
+3.Contract Employee
+2023-05-05 14:34:49 INFO  MysqlCon:263 - Enter the Employee Id
+2023-05-05 14:34:52 INFO  MysqlCon:289 - Employee deleted successfully
+2023-05-05 14:34:52 WARN  MysqlCon:296 - Enter the right choice
+2023-05-05 14:34:52 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
+2023-05-05 14:34:57 INFO  MysqlCon:301 - Enter your choice
+1.List all employees
+2.List permanent employees
+3.List Part-time employees
+4.List contract employees
+2023-05-05 14:34:58 INFO  MysqlCon:57 - {"Contract employee":[{"EmployeeSalary":3443,"Contract period":"3 months","EmployeeID":3,"EmployeeName":"ssss"}]}
+2023-05-05 14:34:58 INFO  MysqlCon:97 - Enter your choice
+1.Create Employee
+2.Modify Employee
+3.Delete Employee
+4.List Employees
+5.Employee search
+6.Exit
