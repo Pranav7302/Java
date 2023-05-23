@@ -1,0 +1,104 @@
+2023-05-18 12:08:47 INFO  ReadEmployee:63 - Employee Id not found
+2023-05-18 12:08:55 INFO  ReadEmployee:54 - Printed successfully...
+2023-05-18 12:46:35 INFO  CreateEmployee:66 - Try with new Emp ID
+2023-05-18 12:46:47 INFO  CreateEmployee:56 - Insertion successful
+2023-05-18 14:15:17 INFO  ReadEmployee:53 - Deletion successful
+2023-05-18 14:15:23 WARN  ReadEmployee:62 - Employee ID not found
+2023-05-18 14:16:43 INFO  CreateEmployee:56 - Insertion successful
+2023-05-18 14:16:46 WARN  CreateEmployee:66 - Try with new Emp ID
+2023-05-18 14:18:54 WARN  CreateEmployee:66 - Try with new Emp ID
+2023-05-18 14:19:05 INFO  ReadEmployee:54 - Printed successfully...
+2023-05-18 14:19:10 WARN  ReadEmployee:63 - Employee Id not found
+2023-05-18 14:19:11 WARN  ReadEmployee:63 - Employee Id not found
+2023-05-18 14:48:05 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 14:48:23 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 14:48:26 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 14:48:40 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 14:48:48 WARN  ReadEmployee:63 - Employee Id not found
+2023-05-18 14:48:59 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:07:33 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:07:35 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:07:35 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:07:36 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:07:45 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:08:59 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:09:00 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:09:04 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:10:32 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:10:33 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:13:20 WARN  ReadEmployee:63 - Employee Id not found
+2023-05-18 15:13:26 INFO  ReadEmployee:54 - Printed successfully...
+2023-05-18 15:13:34 INFO  CreateEmployee:76 - java.sql.SQLException: The url cannot be null
+2023-05-18 15:30:18 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:30:19 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:30:30 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:30:45 INFO  ReadEmployee:54 - Printed successfully...
+2023-05-18 15:42:07 INFO  ReadEmployee:54 - Printed successfully...
+2023-05-18 15:42:13 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:42:14 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:42:15 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:44:55 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:44:59 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:45:05 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:45:06 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:48:22 DEBUG PropertiesConfiguration:588 - FileName set to C:\Users\Pranav.s\eclipse-workspace\maven\src\db.properties
+2023-05-18 15:48:22 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is C:\Users\Pranav.s\eclipse-workspace\maven\src\db.properties
+2023-05-18 15:48:22 DEBUG DefaultFileSystem:281 - Could not locate file C:\Users\Pranav.s\eclipse-workspace\maven\src\db.properties at null: unknown protocol: c
+2023-05-18 15:48:27 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:56:29 DEBUG PropertiesConfiguration:588 - FileName set to src/db.properties
+2023-05-18 15:56:29 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is src/db.properties
+2023-05-18 15:56:29 DEBUG DefaultFileSystem:281 - Could not locate file src/db.properties at null: no protocol: src/db.properties
+2023-05-18 15:56:35 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 15:56:36 INFO  CreateEmployee:89 - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
+2023-05-18 17:09:11 DEBUG PropertiesConfiguration:588 - FileName set to src/db.properties
+2023-05-18 17:09:11 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is src/db.properties
+2023-05-18 17:09:11 DEBUG DefaultFileSystem:281 - Could not locate file src/db.properties at null: no protocol: src/db.properties
+2023-05-18 17:12:54 DEBUG PropertiesConfiguration:588 - FileName set to src/db.properties
+2023-05-18 17:12:54 DEBUG ConfigurationUtils:449 - ConfigurationUtils.locate(): base is null, name is src/db.properties
+2023-05-18 17:12:54 DEBUG DefaultFileSystem:281 - Could not locate file src/db.properties at null: no protocol: src/db.properties
+2023-05-18 17:19:06 INFO  CreateEmployee:86 - javax.naming.NameNotFoundException: Name [jdbc/MyDatabase] is not bound in this Context. Unable to find [jdbc].
+2023-05-18 17:19:08 INFO  CreateEmployee:86 - javax.naming.NameNotFoundException: Name [jdbc/MyDatabase] is not bound in this Context. Unable to find [jdbc].
+2023-05-18 17:19:28 INFO  CreateEmployee:86 - javax.naming.NameNotFoundException: Name [jdbc/MyDatabase] is not bound in this Context. Unable to find [jdbc].
+2023-05-18 17:19:34 WARN  ReadEmployee:63 - Employee Id not found
+2023-05-18 17:19:39 INFO  ReadEmployee:54 - Printed successfully...
+2023-05-18 17:19:47 INFO  CreateEmployee:86 - javax.naming.NameNotFoundException: Name [jdbc/MyDatabase] is not bound in this Context. Unable to find [jdbc].
+2023-05-18 17:26:14 INFO  CreateEmployee:86 - javax.naming.NameNotFoundException: Name [jdbc/MyDatabase] is not bound in this Context. Unable to find [jdbc].
+2023-05-18 17:26:17 INFO  CreateEmployee:86 - javax.naming.NameNotFoundException: Name [jdbc/MyDatabase] is not bound in this Context. Unable to find [jdbc].
+2023-05-18 17:26:17 INFO  CreateEmployee:86 - javax.naming.NameNotFoundException: Name [jdbc/MyDatabase] is not bound in this Context. Unable to find [jdbc].
+2023-05-18 17:33:42 WARN  CreateEmployee:78 - Try with new Emp ID
+2023-05-18 17:33:48 INFO  CreateEmployee:68 - Insertion successful
+2023-05-18 17:41:49 INFO  ReadEmployee:54 - Printed successfully...
+2023-05-18 17:41:56 WARN  ReadEmployee:63 - Employee Id not found
+2023-05-18 17:46:54 INFO  UpdateEmployee:74 - Updation unsuccessful
+2023-05-18 17:47:01 INFO  UpdateEmployee:64 - Updated successfully
+2023-05-18 17:49:44 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-18 17:51:07 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-18 17:51:08 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-18 17:51:10 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-22 12:44:57 WARN  CreateEmployee:73 - Try with new Emp ID
+2023-05-22 12:45:08 INFO  CreateEmployee:63 - Insertion successful
+2023-05-22 12:57:49 INFO  ReadEmployee:58 - Deletion successful
+2023-05-22 12:57:51 WARN  ReadEmployee:67 - Employee ID not found
+2023-05-22 12:58:01 INFO  CreateEmployee:63 - Insertion successful
+2023-05-22 12:58:03 WARN  CreateEmployee:73 - Try with new Emp ID
+2023-05-22 12:58:17 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-22 14:27:44 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-22 14:27:51 WARN  ReadEmployee:68 - Employee Id not found
+2023-05-22 14:30:24 WARN  ReadEmployee:68 - Employee Id not found
+2023-05-22 14:30:29 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-22 14:32:36 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-22 14:32:45 WARN  CreateEmployee:73 - Try with new Emp ID
+2023-05-22 14:37:36 WARN  CreateEmployee:73 - Try with new Emp ID
+2023-05-22 14:48:20 INFO  UpdateEmployee:64 - Updated successfully
+2023-05-22 14:48:25 INFO  UpdateEmployee:64 - Updated successfully
+2023-05-22 14:48:27 INFO  UpdateEmployee:64 - Updated successfully
+2023-05-22 15:00:08 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-22 15:00:14 INFO  ReadEmployee:59 - Printed successfully...
+2023-05-22 15:00:20 WARN  ReadEmployee:68 - Employee Id not found
+2023-05-22 15:02:50 WARN  ReadEmployee:68 - Employee Id not found
+2023-05-22 15:02:52 WARN  ReadEmployee:68 - Employee Id not found
+2023-05-22 15:09:28 INFO  UpdateEmployee:74 - Updation unsuccessful
+2023-05-22 15:09:37 INFO  UpdateEmployee:64 - Updated successfully
+2023-05-22 15:11:46 INFO  UpdateEmployee:64 - Updated successfully
+2023-05-22 15:24:57 INFO  UpdateEmployee:64 - Updated successfully
+2023-05-22 15:26:28 INFO  UpdateEmployee:64 - Updated successfully
