@@ -1,0 +1,11 @@
+stocks\Parameters.class
+stocks\User.class
+stocks\listtransaction.class
+stocks\sell.class
+stocks\signup.class
+stocks\StockFunctions.class
+stocks\add.class
+stocks\buy.class
+stocks\getportfolio.class
+stocks\pl.class
+stocks\login.class
